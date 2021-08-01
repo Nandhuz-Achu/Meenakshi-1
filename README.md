@@ -1,16 +1,16 @@
 <div align="center">
-ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ 
+ғͥᴀͭʀᷤᴀͫsͤ
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/88018874?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="LiyaMol" src="https://img.shields.io/badge/LiyaMol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="cyberking" src="https://img.shields.io/badge/cyberking-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Farasbot"><img title="Author" src="https://img.shields.io/badge/Author-saidali/cyberking?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make it public
+Project created by <a href="https://github.com/Farasbot">saidali</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,13 +25,13 @@ instagram
 
 
   <p align="center">
-  <a href="httsp://github.com/saidalisaid2/LiyaMol">
-    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Farasbot/cyberking">
+    <img src="https://img.shields.io/github/repo-size/Farasbot/cyberking?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/saidalisaid2/followers"><img title="Followers" src="https://img.shields.io/github/followers/saidalisaid2?color=blue&style=flat-square"></a>
-<a href="https://github.com/saidalisaid2/LiyaMol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/saidalisaid2/LiyaMol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/saidalisaid2/LiyaMol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Farasbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Farasbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Farasbot/cyberking/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Farasbot/cyberking/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Farasbot/cyberking/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -52,7 +52,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/JulieMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Farasbot/JulieMwol)
      </div>
 <br>
 <br >
@@ -61,7 +61,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ 
+### ғͥᴀͭʀᷤᴀͫsͤ
 
 
 ### ⚠️ Warning! 
@@ -75,9 +75,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![saidali](https://i.imgur.com/MZDCN2M.jpeg?size=100)](https://github.com/saidalisaid2) |  
+  [![ғͥᴀͭʀᷤᴀͫsͤ](https://avatars.githubusercontent.com/u/88018874?v=4?size=100)](https://github.com/Farasbot) |  
 ----|
-[ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://github.com/saidalisaid2)  |
+[ғͥᴀͭʀᷤᴀͫsͤ](https://github.com/Farasbot)  |
 Base, Bug Fixes, Modules | 
   
     
